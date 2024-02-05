@@ -39,7 +39,7 @@ class App extends Component {
       </div>
       <footer className="app-footer">
         <div className="container">
-          <p>&copy; 2024 Loan Calculator App. All rights reserved.</p>
+          <p>&copy; 2024 Loan Calculator App. All rights reserved by DIGBIJOY DUTTA.</p>
         </div>
       </footer>
       </div>
